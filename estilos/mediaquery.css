@@ -6,6 +6,7 @@
     }
     section#login{
         width: 90vw;
+        height: 400px;
     }
     section#login>div#imagem{
         height: 100%;
@@ -38,5 +39,6 @@
     }
     div#fomulario>p{
         font-size: 1.2em;
+        margin: 20px 0px;
     }
 }
